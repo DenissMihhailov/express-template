@@ -13,3 +13,6 @@
 npm start      # run server
 npm run dev    # run with nodemon
 ```
+
+## Port
+Default port: **3000**
