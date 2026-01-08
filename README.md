@@ -1,4 +1,5 @@
 # Express Template
+**Default port:** 3000
 
 ## Stack
 - Node.js
@@ -8,11 +9,3 @@
     - fetch()
 - CSS
 
-## Scripts
-```bash
-npm start      # run server
-npm run dev    # run with nodemon
-```
-
-## Port
-Default port: **3000**
